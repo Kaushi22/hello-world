@@ -15,4 +15,4 @@
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 ###### Link
-[Just search it here](https://www.google.com)
+[To change the colors and fonts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-text-colors-and-fonts)
