@@ -2,6 +2,8 @@
 ## Tutorial 10
 ### 26/05/2020
 
+#### **G.P.L.K.Gunarathna** *Information System Professionals*
+
 ###### List
 
 1. Github
