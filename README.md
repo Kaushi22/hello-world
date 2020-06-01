@@ -34,5 +34,5 @@ function test() {
 }
 
 Name | Address
-_____ ________
+----- | -----
 Anne | Lalor
