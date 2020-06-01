@@ -18,4 +18,7 @@
 [To change the colors and fonts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-text-colors-and-fonts)
 
 GitHub supports emoji!
-:+1
+
+:+1:
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
