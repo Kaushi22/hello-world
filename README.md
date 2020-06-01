@@ -22,3 +22,9 @@ GitHub supports emoji!
 :+1:
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
+
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
