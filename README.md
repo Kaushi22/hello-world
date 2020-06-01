@@ -16,7 +16,7 @@
 
 ###### Link
 [To change the colors and fonts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-text-colors-and-fonts)
-[Markdown Cheatsheet] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 GitHub supports emoji!
 
