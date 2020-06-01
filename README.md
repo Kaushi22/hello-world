@@ -33,6 +33,11 @@ function test() {
  console.log("look ma’, no spaces");
 }
 
-Name | Address
------ | -----
-Anne | Lalor
+### TABLE
+No | Category
+---| --------
+1 | Furniture
+2| Clothes
+3| Grocery
+4| Vehicle
+
