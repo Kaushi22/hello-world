@@ -37,10 +37,10 @@ function test() {
 }
 
 ###### Table
-No | Category
+Week | Lecture 
 ---| --------
-1 | Furniture
-2| Clothes
-3| Grocery
-4| Vehicle
+8 | Sharing Insights with Colleagues and the World
+9| Managing stakeholders' expectations: the art of talking to management 
+10| Career planning and development
+
 
