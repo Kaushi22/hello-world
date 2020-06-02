@@ -43,4 +43,6 @@ Week | Lecture
 9| Managing stakeholders' expectations: the art of talking to management 
 10| Career planning and development
 
-
+######Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
